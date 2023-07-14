@@ -11,7 +11,7 @@ function Header() {
   return <>
     <div className='main_container'>
     <nav className='navbar'>
-        <h1>Password Reset</h1>
+        <h1>Shopify</h1>
         <Button variant="danger" onClick={()=>handleLogout()}>Logout</Button>
 
     </nav>
